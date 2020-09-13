@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://wangjunget-system.oss-cn-hangzhou.aliyuncs.com/hello.gif"></img>
+<img src="https://wangjunget-system.oss-cn-hangzhou.aliyuncs.com/hello.gif" style="border-radius: 10px;"></img>
 
 <!--
 **wangjunget/wangjunget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
